@@ -30,7 +30,7 @@ export default function Navbar() {
       }}>
         <a href="#hero">
           <img src={logoDcr} alt="DCR Engenharia" style={{
-            height: 34, filter: 'brightness(0) saturate(100%) invert(13%) sepia(20%) saturate(800%) hue-rotate(90deg) brightness(80%)'
+            height: 52, filter: 'brightness(0) saturate(100%) invert(13%) sepia(20%) saturate(800%) hue-rotate(90deg) brightness(80%)'
           }} />
         </a>
 
