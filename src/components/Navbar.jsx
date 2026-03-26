@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import logoDcr from '/logo-dcr.png'
+import logoDcr from '/dcr-logo-nav.svg'
 
 export default function Navbar() {
   const [scrolled, setScrolled] = useState(false)
